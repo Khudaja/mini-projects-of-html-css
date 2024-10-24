@@ -1,0 +1,81 @@
+body {
+    background-color:rgb(216, 196, 171);
+}
+.background {
+    margin: auto;
+    width: 1050px;
+    background-color:bisque;
+    border-radius: 20px;
+    box-shadow: black;
+}
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0px, 5px burlywood;
+}
+.PeriodicTable {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    color: brown;
+    background-color: cornsilk;
+    width: 600px;
+    margin: auto;
+    border-radius: 20px;
+}
+.number {
+    line-height: 0px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.name {
+    line-height: 0px;
+    font-weight: bold;
+}
+.num {
+    line-height: 0px;
+    font-size: 10px;
+    font-weight: normal;
+}
+.group {
+    line-height: 0px;
+    font-size: 9px;
+    font-weight:bold;
+}
+.category {
+    line-height: 0px;
+    font-size: 8px;
+    font-weight:bold;
+}
+.category1 {
+    background-color: rgb(202, 250, 130);
+}
+.category2 {
+    background-color: rgb(254, 122, 144);
+}
+.category3 {
+    background-color: rgb(253, 64, 64);
+}
+.category4 {
+    background-color: orange;
+}
+.category5 {
+    background-color: aqua;
+}
+.category6 {
+    background-color: rgb(237, 154, 99);
+}
+.category7 {
+    background-color: rgb(236, 71, 236);
+}
+.category8 {
+    background-color: rgb(192, 170, 192);
+}
+.category9 {
+    background-color: rgb(119, 119, 225);
+}
+.category10 {
+    background-color: rgb(80, 191, 121);
+}
